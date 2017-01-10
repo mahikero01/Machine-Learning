@@ -2,7 +2,7 @@ Supervised learning
 
 2 types of Supervised Learning
 -Classification -> getting an input and mapping it to a discreet number of labels
--Regression
+-Regression -> mapping continous inputs to outputs
 
 Classification Terms
 -Instances -> input
@@ -22,3 +22,12 @@ Decision Tree:Learning
 2) asked question
 3) follow the answer path
 4) goto 1
+
+
+n-or: any -> linear
+n-xor: odd parity -> exponential
+
+Inductive Bias
+-Good Splits at the top
+-correct over incorrect
+-shorter trees
