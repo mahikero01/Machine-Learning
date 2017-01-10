@@ -1,1 +1,24 @@
-testing
+Supervised learning
+
+2 types of Supervised Learning
+-Classification -> getting an input and mapping it to a discreet number of labels
+-Regression
+
+Classification Terms
+-Instances -> input
+-Concept -> function input, output
+-Target Concept -> actual answer
+-Hypothesis -> class, all possible functions
+-Sample -> training set
+-Candidate -> concept might be the target concept
+-Testing Set ->  candidate concept is being used on another testing set but not the same
+
+Decision Trees
+-Representation
+-Algorithm
+
+Decision Tree:Learning
+1) Pick best attribute
+2) asked question
+3) follow the answer path
+4) goto 1
